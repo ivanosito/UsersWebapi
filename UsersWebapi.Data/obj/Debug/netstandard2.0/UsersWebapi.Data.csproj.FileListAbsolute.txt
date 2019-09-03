@@ -1,0 +1,12 @@
+C:\Users\adria\source\repos\UsersWebapi\UsersWebapi.Data\bin\Debug\netstandard2.0\UsersWebapi.Data.deps.json
+C:\Users\adria\source\repos\UsersWebapi\UsersWebapi.Data\bin\Debug\netstandard2.0\UsersWebapi.Data.dll
+C:\Users\adria\source\repos\UsersWebapi\UsersWebapi.Data\bin\Debug\netstandard2.0\UsersWebapi.Data.pdb
+C:\Users\adria\source\repos\UsersWebapi\UsersWebapi.Data\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\adria\source\repos\UsersWebapi\UsersWebapi.Data\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\adria\source\repos\UsersWebapi\UsersWebapi.Data\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\adria\source\repos\UsersWebapi\UsersWebapi.Data\obj\Debug\netstandard2.0\UsersWebapi.Data.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\UsersWebapi\UsersWebapi.Data\obj\Debug\netstandard2.0\UsersWebapi.Data.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\UsersWebapi\UsersWebapi.Data\obj\Debug\netstandard2.0\UsersWebapi.Data.AssemblyInfo.cs
+C:\Users\adria\source\repos\UsersWebapi\UsersWebapi.Data\obj\Debug\netstandard2.0\UsersWebapi.Data.csproj.CopyComplete
+C:\Users\adria\source\repos\UsersWebapi\UsersWebapi.Data\obj\Debug\netstandard2.0\UsersWebapi.Data.dll
+C:\Users\adria\source\repos\UsersWebapi\UsersWebapi.Data\obj\Debug\netstandard2.0\UsersWebapi.Data.pdb
